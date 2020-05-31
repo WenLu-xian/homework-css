@@ -1,0 +1,540 @@
+.header{
+	height:101px;
+	line-height:101px;
+}
+.menu0{
+	width:1200px;
+	margin:0 auto;
+}
+.title1{
+	width:170px;
+	height:39px;
+	font-size:40px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color: rgba(0,164,255,1);
+	float: left;
+	margin-left:10px;
+}
+.nav{
+	float:left;
+}
+.nav li a{
+	color: rgba(5,5,5,1);
+}
+.nav li a:hover{
+	border-bottom:2px solid rgba(0,164,255,1)
+}
+.nav li{
+	float:left;
+	font-size:18px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	margin-left:79px;
+	text-align:center;
+}
+.form{
+	float:right;
+	margin-top: 31px;
+}
+.search{
+	float:left;
+	padding: 12px;
+	width:340px;
+	border-right: none;
+	border: 1px solid rgba(0,164,255,1);
+}
+.submit{	
+	width:50px;
+	height:41px;
+	float:left;
+	border:none;
+	background: rgba(0,164,255,1) url(../images/fa-search.png) no-repeat center center;
+}
+.self{
+	width:60px;
+	height:12px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	float: right;
+	margin-left: 30px;
+}
+.entirety{
+	height:420px;
+	background: rgba(28,3,108,1) url('../images/banner2.png')
+	no-repeat center center;
+}
+.entirety .sheet{
+	width: 180px;
+	height: 420px;
+	background:rgba(0,0,0,0.3);
+}
+.entirety .sheet ul{
+	float: left;
+}
+.entirety .sheet a{
+	color: white;
+}
+.entirety .sheet a:hover{
+	color: rgba(101,179,252,1);
+}
+.entirety .sheet li{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	line-height:44px;
+	margin-left: 15px;
+	padding-bottom: 1px;
+}
+.entirety .sheet .fangxiang{
+	color:rgba(101,179,252,1);
+	
+}
+.fangxiang{
+	position: relative;
+	margin-left:15px;
+}
+.menu{
+	margin:0 auto;
+	width:1200px;
+	height:60px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+}
+.menu .sheet{
+	float:left;
+
+}
+.menu ul li{
+	float:left;
+	height:18px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:black;
+	width:124px;
+	border-left: 1px solid rgba(190,190,190,1);
+	text-align: center;
+	margin-top: 21px;
+}
+.menu .sheet .first a:hover{
+	color:rgba(0,164,255,1);
+}
+.menu .menu1 a:hover{
+	color: rgba(0,164,255,1);
+}
+.menu .menu1 a{
+	color: black;
+}
+.menu .menu1{
+	float: right;
+	height:18px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:black;
+	margin-top: 21px;
+	margin-right: 61px;
+}
+.part2-1{
+	margin:0 auto;
+	width:1200px;
+	height:70px;
+}
+.part2-1 .right{
+	float: right;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(163,163,163,1);
+	margin-top: 44px;
+	margin-right: 31px;
+}
+.part2-1 .left{
+	margin-top: 37px ;
+	float:left;
+	width:80px;
+	height:19px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1)
+}
+
+.part2-2{
+	width:1300px;
+	height:270px;
+	margin: 0 auto;
+	margin-top:21px;
+}
+.part2-2>div{
+	float:left;
+	width: 228px;
+	height: 270px;
+	margin-left: 15px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 5px 0px rgba(117,117,117,0.5);
+	margin-top:0px;
+	position: relative;
+	margin-bottom: 15px;
+}
+.part2-2 img{
+	width:228px;
+	height:155px;
+	margin-top: 0;
+}
+.part2-2 .wen1{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(13,13,13,1);
+	position: absolute;
+	line-height:20px;
+	margin-left: 23px;
+	margin-top: 24px;
+	width: 185px;
+}
+.part2-2 .wen2{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(227,123,54,1);
+	position: absolute;
+	margin-left: 23px;
+	margin-top: 76px;
+}
+.part2-2 .wen3{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color: #989898;
+	position: absolute;
+	margin-top: 76px;
+	margin-left: 50px;
+}
+.part2-3{
+	width:1300px;
+	height:270px;
+	margin: 0 auto;
+	margin-top:21px;
+}
+.part2-3>div{
+	float:left;
+	width: 228px;
+	height: 270px;
+	margin-left: 15px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 5px 0px rgba(117,117,117,0.5);
+	margin-top:0px;
+	position: relative;
+	margin-top: 0px;
+}
+.part2-3 img{
+	width:228px;
+	height:155px;
+	margin-top: 0;
+}
+.part2-3 .wen1{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(13,13,13,1);
+	position: absolute;
+	line-height:20px;
+	margin-left: 23px;
+	margin-top: 24px;
+	width: 185px;
+}
+.part2-3 .wen2{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(227,123,54,1);
+	position: absolute;
+	margin-left: 23px;
+	margin-top: 76px;
+}
+.part2-3 .wen3{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color: #989898;
+	position: absolute;
+	margin-top: 76px;
+	margin-left: 50px;
+}
+.menu3{
+	width: 1200px;
+	height: 77px;
+	margin: 0 auto;
+}
+.menu3 .gongchengshi{
+	float: left;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(74,74,74,1);
+	margin-top: 37px;
+}
+.menu3 ul{
+	float:left;
+	margin-left:200px;
+}
+.menu3>ul li{
+	float: left;
+	padding-left: 72px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(134, 134, 134, 1);
+	margin-top: 41px;
+}
+.menu3>ul>li a:hover{
+	color:rgba(0, 164, 255, 1);
+}
+.menu3 .quanbu{
+	float: right;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(163,163,163,1);
+	margin-top: 41px;
+	margin-right: 40px;
+}
+.part2-4{
+	width:1300px;
+	height:270px;
+	margin: 0 auto;
+	margin-top:21px;
+}
+.part2-4>div{
+	float:left;
+	width: 228px;
+	height: 270px;
+	margin-left: 15px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 5px 0px rgba(117,117,117,0.5);
+	margin-top:0px;
+	position: relative;
+	margin-top: 0px;
+}
+.part2-4 img{
+	width:228px;
+	height:155px;
+	margin-top: 0;
+}
+.part2-4 .wen1{
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(13,13,13,1);
+	position: absolute;
+	line-height:20px;
+	margin-left: 23px;
+	margin-top: 24px;
+	width: 185px;
+}
+.part2-4 .wen2{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(227,123,54,1);
+	position: absolute;
+	margin-left: 23px;
+	margin-top: 76px;
+}
+.part2-4 .wen3{
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color: #989898;
+	position: absolute;
+	margin-top: 76px;
+	margin-left: 50px;
+}
+.niuren{
+	width: 1200px;
+	height: 87px;
+	margin: 0 auto;
+}
+.niuren .niu{
+	float: left;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+	margin-top: 27px;
+}
+.part3{
+	margin: 0 auto;
+	height: 320px;
+	width: 1300px;
+}
+.part3 .biye{
+	float: left;
+	width: 471px;
+	height: 320px;
+	background: url('../images/图层 149.png') no-repeat center center;
+}
+.part3 .biyeji{
+	width:163px;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(242,224,53,1);
+	line-height:36px;
+	margin-left: 25px;
+	margin-top: 99px;
+	display:block;
+}
+.part3 .daini{
+	width: 163px;
+	font-size:27px;
+	color: white;
+	line-height: 36px;
+	display: block;
+	margin-left: 25px;
+}
+.part3 .dianji{
+	display: block;
+	width: 87px;
+	height: 25px;
+	font-size:13px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(242,224,53,1);
+	line-height:20px;
+	border: 1px solid rgba(242,224,53,1);
+	padding-top: 5px;
+	margin-left: 28px;
+	margin-top: 12px;
+	text-align: center;
+}
+.part3>div{
+	float: left;
+	width: 228px;
+	height: 320px;
+	margin-left: 15px;
+}
+.part3 .diyi{
+	background-image: url('../images/20172124182104355(1).png');
+	background-position: -6px -6px;
+}
+.part3 .dier{
+	background-image: url('../images/20154025104058710(1).png');
+	background-position: -6px -6px;
+}
+.part3 .disan{
+	background-image: url('../images/20154325104317144 (1).png');
+	background-position: -6px -6px;
+}
+.part3 .bottom{
+	width:229px;
+	height:122px;
+	background:rgba(0,0,0,0.5);
+	position: relative;
+	top: 62%;
+}
+.part3 p{
+	margin-left: 29px;
+}
+.part3 .laoshi .teacher{
+	font-weight: bold;
+}
+.part3 .laoshi{
+	padding-top: 21px;
+	width: 108px;
+	height: 18px;
+	font-family:Microsoft YaHei;
+	color:rgba(255,255,255,1);
+}
+.part3 .job{
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+.part3 .jieshao{
+	display: block;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(255,255,255,1);
+	line-height:20px;
+	width: 175px;
+	height: 53px;
+	padding-top: 12px;
+}
+.part4{
+	height:417px;
+	background:rgba(255,255,255,1);
+}
+.container1{
+	width:1300px;
+	height:417px;
+	margin:0 auto;
+}
+.part4 .container1 .left{
+	float: left;
+}
+.part4 .container1 .left a{
+	color:rgba(0,164,255,1);
+}
+.part4>.container1>.left>.xueli{
+	font-size:36px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	line-height:21px;
+	margin-top: 124px;
+}
+.part4 .container1 .left .zhili{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	line-height:18px;
+	padding-top: 35px;
+}
+.part4 .container1 .APP{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,164,255,1);
+	line-height:36px;
+	height:36px;
+	width:120px;
+	text-align: center;
+	border:1px solid rgba(0,164,255,1); 
+	margin-top: 33px;
+}
+.part4 .container1 .left1{
+	margin-top: 129px;
+	float: left;
+	margin-left: 273px;
+}
+.part4 .container1 .kaishi{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+	padding-bottom: 16px;
+}
+.part4 .container1 .left3{
+	float:left;
+	margin-top:130px;
+	margin-left:152px;
+}
+.part4 .container1 .left2{
+	float:left;
+	margin-left: 146px;
+	margin-top:129px;
+}
+.part4 .container .left li{
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+}
